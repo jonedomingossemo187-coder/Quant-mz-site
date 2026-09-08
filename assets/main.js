@@ -2,8 +2,8 @@
    CONFIGURAÇÃO — edite aqui para atualizar o site inteiro
    ========================================================= */
 const SITE = {
-  whatsappNumber: "258835392631", // formato internacional sem "+" nem espaços
-  callNumber: "83 539 2631",
+  whatsappNumber: "258856371603", // formato internacional sem "+" nem espaços
+  callNumber: "85 637 1603",
 };
 
 const PRODUCTS = [
